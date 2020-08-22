@@ -91,8 +91,7 @@ nav ul {
 
 .hero {
   height: 90vh;
-  
-  background: linear-gradient(rgb(0, 0, 0, 0.4), transparent), url(./img/pexels-photo-2387873.png);
+  background: linear-gradient(rgb(0, 0, 0, 0.4), transparent), url(./img/pexels-photo-2387873);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -340,5 +339,15 @@ footer {
     flex-direction: column;
     text-align: center;
     justify-content: center;
+  }
+
+  .form-wrapper input {
+    width: 100%;
+  }
+
+  .locations-head h2 {
+    width: 90%;
+    padding: 2rem;
+    margin-bottom: 2rem;
   }
 }
