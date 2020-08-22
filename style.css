@@ -111,7 +111,7 @@ nav ul {
 
 #locations {
   height: 100vh;
-  background: linear-gradient(rgb(0, 0, 0, 0.4), transparent), url("./img/new-york-page.png");
+  background: linear-gradient(rgb(0, 0, 0, 0.4), transparent), url(./img/new-york-page.png);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -223,7 +223,7 @@ nav ul {
 
 #contact {
   min-height: 100vh;
-  background: linear-gradient(rgb(0, 0, 0, 0.4), transparent), url("./img/contact-mountain.png");
+  background: linear-gradient(rgb(0, 0, 0, 0.4), transparent), url(./img/contact-mountain.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
